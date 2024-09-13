@@ -41,6 +41,11 @@
             <version>7.10.2</version>
             <scope>compile</scope>
         </dependency>
+        <dependency>
+            <groupId>com.aventstack</groupId>
+            <artifactId>extentreports</artifactId>
+            <version>5.0.8</version> <!-- Use the latest version -->
+        </dependency>
 
     </dependencies>
 
